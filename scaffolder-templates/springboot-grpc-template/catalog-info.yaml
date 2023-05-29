@@ -1,7 +1,0 @@
-catalog:
-  locations:
-    # Backstage example templates
-    - type: url
-      target: https://github.com/scaribei/software-templates/blob/main/scaffolder-templates/react-ssr-template/template.yaml
-      rules:
-        - allow: [Template]
