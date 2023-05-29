@@ -6,6 +6,9 @@ metadata:
   tags:
     - java
     - website
+  metadata:
+  annotations:
+    backstage.io/managed-by-location: url:http://github.com/scaribei/softwaretemplates/blob/main/catalog-info.yaml
 spec:
   type: service
   lifecycle: production
