@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1
 kind: Component
 metadata:
-  name: software-templates-java
+  name: software-java
   description: Teste Java Componente
   tags:
     - java
