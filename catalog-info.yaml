@@ -5,7 +5,7 @@ metadata:
   description: Teste Java Componente
   tags:
     - java
-    - service
+    - website
 spec:
   type: service
   lifecycle: production
