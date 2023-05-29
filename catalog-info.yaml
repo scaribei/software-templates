@@ -4,8 +4,8 @@ metadata:
   name: software-templates-java
   description: Teste Java Componente
   tags:
-    - Java
-    - Service
+    - java
+    - service
 spec:
   type: service
   lifecycle: production
